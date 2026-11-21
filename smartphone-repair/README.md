@@ -15,4 +15,4 @@ included firmware flashing. My practical work centred on the hardware.
 I took this course before starting my Electronics Engineering degree. It gave
 me a hands-on reference point for the circuits I now study at university.
 
-[View the course certificate](../mobile-course.jpg)
+[View the course certificate](./mobile-course.jpg)
